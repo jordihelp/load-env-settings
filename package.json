@@ -1,7 +1,12 @@
 {
   "name": "load-env-settings",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Load application settings from file .env",
   "main": "app.js",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "license" : "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jordihelp/load-env-settings.git"
+  }
 }
