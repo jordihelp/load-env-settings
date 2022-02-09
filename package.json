@@ -1,0 +1,7 @@
+{
+  "name": "load-env-settings",
+  "version": "1.0.0",
+  "description": "Load application settings from file .env",
+  "main": "app.js",
+  "readmeFilename": "README.md"
+}
